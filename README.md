@@ -1,23 +1,31 @@
-📱 Simple Calculator
-A sleek and responsive calculator built using HTML, CSS, and JavaScript. This project offers a user-friendly interface with essential arithmetic operations, making it a perfect tool for quick calculations and a great starting point for beginners learning web development.
+# Calculator Web App
+A visually appealing, fully functional calculator built using HTML, CSS, and JavaScript — designed to handle basic operations with a clean and modern interface.
 
-🚀 Features
-Basic Arithmetic Operations: Addition, Subtraction, Multiplication, and Division.
+# Preview
 
-Responsive Design: Ensures usability across various devices and screen sizes.
+An elegant and user-friendly calculator UI
 
-Interactive UI: Hover effects and button animations enhance user experience.
+# Features
+Basic Operations: Perform addition, subtraction, multiplication, and division.
 
-Clean Layout: Organized structure for ease of understanding and maintenance.
+Extended Controls:
 
-💡 Usage
-Click on the numeric buttons to input numbers.
+C — Clear all input
 
-Use the arithmetic operation buttons (+, -, ×, ÷) to perform calculations.
+% — Calculate percentages
 
-Press = to view the result.
+⌫ — Backspace to delete last digit
 
-Click C to clear the current input.
+Interactive Hover Effects: Smooth transitions and color changes enhance user experience.
 
-🤝 Contributing
-Contributions are welcome! If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
+Responsive Layout: Adapts well to different screen sizes (desktop, tablet, mobile).
+
+Modern Design: Uses a sleek color palette with rounded buttons and subtle shadows.
+
+# Tech Stack
+HTML – Structure of the calculator.
+
+CSS – Styling and responsive layout.
+
+JavaScript – Functional logic for all operations and buttons.
+
