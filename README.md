@@ -10,11 +10,11 @@ Basic Operations: Perform addition, subtraction, multiplication, and division.
 
 Extended Controls:
 
-C — Clear all input
+- C — Clear all input
 
-% — Calculate percentages
+- % — Calculate percentages
 
-⌫ — Backspace to delete last digit
+- ⌫ — Backspace to delete last digit
 
 Interactive Hover Effects: Smooth transitions and color changes enhance user experience.
 
@@ -23,9 +23,9 @@ Responsive Layout: Adapts well to different screen sizes (desktop, tablet, mobil
 Modern Design: Uses a sleek color palette with rounded buttons and subtle shadows.
 
 # Tech Stack
-HTML – Structure of the calculator.
+- **HTML** – Structure of the calculator.
 
-CSS – Styling and responsive layout.
+- **CSS** – Styling and responsive layout.
 
-JavaScript – Functional logic for all operations and buttons.
+- **JavaScript** – Functional logic for all operations and buttons.
 
